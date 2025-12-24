@@ -1,8 +1,9 @@
 {
-    "name": "MakeCode-Arcade-Template",
+    "name": "aleix rodriguez",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
@@ -17,11 +18,11 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "2.0.62",
+        "target": "2.0.63",
         "targetId": "arcade"
     },
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
