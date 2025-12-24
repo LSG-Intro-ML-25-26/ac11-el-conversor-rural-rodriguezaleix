@@ -78,7 +78,7 @@ function inicialitzar_entorn_rural() {
     mercader.x = 130;
     animation.runImageAnimation(mercader, [assets.image`snake_1`, assets.image`snake_2`], 400, true);
 
-    game.showLongText("Benvingut a Alcubilla! Camina fins a la serp per negociar.", DialogLayout.Top);
+    game.showLongText("Benvingut a Alcubilla! Camina fins el gos per negociar.", DialogLayout.Top);
 }
 
 // Interacció
